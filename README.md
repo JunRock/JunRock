@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  <br> 
  <br>
-   ☁ Cloud 
- <br>
-<a href="https://wnstjr120422.tistory.com/category">
-   <br> 
+   ☁ Recording 
+ <br> 
+ <p><a href="https://wnstjr120422.tistory.com/category" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=tistory&logoColor=white"/></a></p>
    <br>
+
   ⚡ Database
  <br>
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
