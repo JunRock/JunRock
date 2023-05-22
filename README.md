@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=22272d&height=100&section=header&text=Good%20to%20see%20you!&fontSize=50&fontColor=e7e7e7)
+ ![header](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
 
 
  
