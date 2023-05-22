@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
- ![header](https://github-readme-stats.vercel.app/api?username={JunRock}&theme=blue-green)
-
+![Anurag's GitHub stats](https://github-readme-stats-kappa-six-17.vercel.app/api?username=RockJun&theme=merko&show_icons=true)
 
  
  <br><br>
