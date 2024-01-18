@@ -41,4 +41,5 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjr120422)](https://solved.ac//)
 
 </div>
+[![Java CI with Gradle](https://github.com/project-GAZA/GAZA-server/actions/workflows/gradle.yml/badge.svg)](https://github.com/project-GAZA/GAZA-server/actions/workflows/gradle.yml)
 
