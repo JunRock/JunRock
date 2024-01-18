@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
   <br>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjr120422)](https://solved.ac//)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjr120422)](https://solved.ac//)<br>
 [![Java CI with Gradle](https://github.com/project-GAZA/GAZA-server/actions/workflows/gradle.yml/badge.svg)](https://github.com/project-GAZA/GAZA-server/actions/workflows/gradle.yml)
 </div>
 
