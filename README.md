@@ -6,46 +6,50 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 My Skills</h2>
     <br> 
     <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
-        <table style="margin: 10px;">
+        <table>
             <tr>
                 <th rowspan="2">Language</th>
-                <td>Java</td>
+                <td><img src="https://staging.svgrepo.com/show/353924/java.svg" width="20px" alt="_icon" /> Java</td>
             </tr>
             <tr>
-                <td>Kotlin</td>
+                <td><img src="https://www.svgrepo.com/show/353980/kotlin.svg" width="20px" alt="_icon" /> Kotlin</td>
             </tr>
-        </table>
-        <table style="margin-left: 10px;">
+            <tr>
+               <th rowspan="1" colspan="2"></th>
+            </tr>
             <tr>
                 <th>DataBase</th>
-                <td>Mysql</td>
+                <td><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="20px" alt="_icon" /> Mysql</td>
             </tr>
-        </table>
-        <table style="margin: 10px;">
+            <tr>
+                <th rowspan="1" colspan="2"></th>
+            </tr>
             <tr>
                 <th rowspan="2">Infra</th>
-                <td>Amazon Web Services</td>
+                <td><img src="https://www.svgrepo.com/show/448266/aws.svg" width="20px" alt="_icon" /> Amazon Web Services</td>
             </tr>
             <tr>
-                <td>Naver Cloud Platform</td>
+                <td><img src="https://yt3.ggpht.com/ytc/AKedOLQlZeczRzCJOJ5AML8wYJNb-Clyofwfgw_hs2Gk=s900-c-k-c0x00ffffff-no-rj" width="20px" alt="_icon" /> Naver Cloud Platform</td>
             </tr>
-        </table>
-        <table style="margin: 10px;">
+            <tr>
+                <th rowspan="1" colspan="2"></th>
+            </tr>
             <tr>
                 <th>Deployment</th>
-                <td>Github Actions</td>
+                <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nNZVxrqmSMQnNMDKHdTkNFOxPkYUA0HZUA&s" width="20px" alt="_icon" /> Github Actions</td>
             </tr>
-        </table>
-        <table style="margin: 10px;">
+            <tr>
+                <th rowspan="1" colspan="2"></th>
+            </tr>
             <tr>
                 <th rowspan="3">Communications</th>
-                <td>Notion</td>
+                <td><img src="https://www.svgrepo.com/show/361558/notion-logo.svg" width="20px" alt="_icon" /> Notion</td>
             </tr>
             <tr>
-                <td>Jira</td>
+                <td><img src="https://www.svgrepo.com/show/452241/jira.svg" width="20px" alt="_icon" /> Jira</td>
             </tr>
             <tr>
-                <td>Slack</td>
+                <td><img src="https://www.svgrepo.com/show/448248/slack.svg" width="20px" alt="_icon" /> Slack</td>
             </tr>
         </table>
     </div>
