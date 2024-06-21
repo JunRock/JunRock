@@ -1,46 +1,65 @@
-<!--
-**zmffhqj714/zmffhqj714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&height=80)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&size=45&duration=4000&pause=3&color=9BD7B2&background=9391FF00&multiline=true&random=false&width=1000&height=150&lines=junseok's+Home+%F0%9F%8F%A0;Welcome+%20to+junseok's+Playground+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunRock&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<br>
-🚀 Skills 
- <br>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
- <br> 
- <br>
-   ☁ Recording 
- <br> 
- <p><a href="https://wnstjr120422.tistory.com/category" target="_blank"><img src="https://img.shields.io/badge/TISTORY-000000?style=flat-square&logo=tistory&logoColor=white"/></a></p>
-   <br>
-
-  ⚡ Database
- <br>
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-  ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-  <br>
-  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstjr120422)](https://solved.ac//)<br>
-[![Java CI with Gradle](https://github.com/project-GAZA/GAZA-server/actions/workflows/ci.yml/badge.svg)](https://github.com/project-GAZA/GAZA-server/actions/workflows/ci.yml)
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 My Skills</h2>
+    <br> 
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+        <table style="margin: 10px;">
+            <tr>
+                <th rowspan="2">Language</th>
+                <td>Java</td>
+            </tr>
+            <tr>
+                <td>Kotlin</td>
+            </tr>
+        </table>
+        <table style="margin-left: 10px;">
+            <tr>
+                <th>DataBase</th>
+                <td>Mysql</td>
+            </tr>
+        </table>
+        <table style="margin: 10px;">
+            <tr>
+                <th rowspan="2">Infra</th>
+                <td>Amazon Web Services</td>
+            </tr>
+            <tr>
+                <td>Naver Cloud Platform</td>
+            </tr>
+        </table>
+        <table style="margin: 10px;">
+            <tr>
+                <th>Deployment</th>
+                <td>Github Actions</td>
+            </tr>
+        </table>
+        <table style="margin: 10px;">
+            <tr>
+                <th rowspan="3">Communications</th>
+                <td>Notion</td>
+            </tr>
+            <tr>
+                <td>Jira</td>
+            </tr>
+            <tr>
+                <td>Slack</td>
+            </tr>
+        </table>
+    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+    <br> 
+    <div>
+        <a href="https://wnstjr120422.tistory.com/category">
+            <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://wnstjr120422.tistory.com/category">
+        </a>
+    </div>
+    <br>
+    <div>
+        <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJunRock%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
+        </a>
+    </div>
 </div>
-
-
