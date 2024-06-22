@@ -64,16 +64,17 @@
     <br> 
     <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 <table>
-     <tr>
-            <th>활동명</th>
-            <th>활동 기간</th>
-        </tr>
-        <tr>
-            <th>goormthon univ 2기 x Kakao</th>
-            <td>2024.03 ~ 진행 중 
-                <img src="https://github.com/user-attachments/files/15935648/_142_image.png" alt="[수료증]" width="100">
-            </td>
-        </tr>
+<table>
+    <tr>
+        <th>활동명</th>
+        <th>활동 기간</th>
+    </tr>
+    <tr>
+        <th>goormthon univ 2기 x Kakao</th>
+        <td>2024.03 ~ 진행 중 
+            <a href="https://github.com/JunRock/JunRock/assets/56196986/f8bb3ba0-570f-4a43-aec1-eea090fd54b3" target="_blank">수료증</a>
+        </td>
+    </tr>
 </table>
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
