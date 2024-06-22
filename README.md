@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&animation=twinkling&height=80)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&size=45&duration=4000&pause=3&color=9BD7B2&background=9391FF00&multiline=true&random=false&width=1000&height=150&lines=junseok's+Home+%F0%9F%8F%A0;Welcome+%20to+junseok's+Playground+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Alkatra&size=45&duration=4000&pause=3&random=false&width=1000&height=150&lines=Welcome+To+junseok's+Playground%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <div align="center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 My Skills</h2>
@@ -60,7 +59,7 @@
             </tr>
         </table>
     </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Activity</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📚 Activity</h2>
     <br> 
     <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 <table>
@@ -70,14 +69,15 @@
         <th>활동 기간</th>
     </tr>
     <tr>
-        <th>goormthon univ 2기 x Kakao</th>
-        <td>2024.03 ~ 진행 중 
-            <a href="https://github.com/JunRock/JunRock/assets/56196986/f8bb3ba0-570f-4a43-aec1-eea090fd54b3" target="_blank">수료증</a>
+        <th>goormthon univ 2기 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQRemibPTWg_IeIHpL0pe8KBEEVyCOrjJxA&s" width="24px" alt="_icon" />  &  Kakao <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kakao_CI_yellow.svg/1200px-Kakao_CI_yellow.svg.png" width="24px" alt="_icon" /></th>
+        <td>2024.03 ~ 2024.06 
+            <a href="https://github.com/JunRock/JunRock/assets/56196986/f8bb3ba0-570f-4a43-aec1-eea090fd54b3" target="_blank"> [수료증]</a>
         </td>
     </tr>
 </table>
+    <br>
     </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📩 Contact me</h2>
     <br> 
     <div>
         <a href="https://wnstjr120422.tistory.com/category">
