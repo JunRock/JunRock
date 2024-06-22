@@ -41,8 +41,14 @@
                 <th rowspan="1" colspan="2"></th>
             </tr>
             <tr>
-                <th>Deployment</th>
+                <th rowspan="3">Deployment</th>
                 <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9nNZVxrqmSMQnNMDKHdTkNFOxPkYUA0HZUA&s" width="20px" alt="_icon" /> Github Actions</td>
+            </tr>
+            <tr>
+                <td><img src="https://www.svgrepo.com/show/448221/docker.svg" width="20px" alt="_icon" /> Docker</td>
+            </tr>
+            <tr>
+                <td><img src="https://openwhisk.apache.org/images/deployments/logo-docker-compose-text.svg" width="24px" alt="_icon" /> Docker-compose</td>
             </tr>
             <tr>
                 <th rowspan="1" colspan="2"></th>
