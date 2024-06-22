@@ -70,7 +70,9 @@
         </tr>
         <tr>
             <th>goormthon univ 2기 x Kakao</th>
-            <td>2024.03 ~ 진행 중 <a href="https://github.com/user-attachments/files/15935648/_142.pdf" target="_blank">[수료증]</a></td>
+            <td>2024.03 ~ 진행 중 
+                <img src="https://github.com/user-attachments/files/15935648/_142_image.png" alt="[수료증]" width="100">
+            </td>
         </tr>
 </table>
     </div>
