@@ -18,6 +18,13 @@
                <th rowspan="1" colspan="2"></th>
             </tr>
             <tr>
+                <th>FrameWork</th>
+                <td><img src="https://www.svgrepo.com/show/376350/spring.svg" width="20px" alt="_icon" /> Spring boot</td>
+            </tr>
+            <tr>
+                <th rowspan="1" colspan="2"></th>
+            </tr>
+            <tr>
                 <th>DataBase</th>
                 <td><img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" width="20px" alt="_icon" /> Mysql</td>
             </tr>
@@ -52,6 +59,20 @@
                 <td><img src="https://www.svgrepo.com/show/448248/slack.svg" width="20px" alt="_icon" /> Slack</td>
             </tr>
         </table>
+    </div>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Activity</h2>
+    <br> 
+    <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<table>
+     <tr>
+            <th>활동명</th>
+            <th>활동 기간</th>
+        </tr>
+        <tr>
+            <th>goormthon univ 2기 x Kakao</th>
+            <td>2024.03 ~ 진행 중 [수료증]( </td>
+        </tr>
+</table>
     </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 Contact me</h2>
     <br> 
