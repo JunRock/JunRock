@@ -82,7 +82,8 @@
     <tr>
         <th>goormthon univ 2기 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQRemibPTWg_IeIHpL0pe8KBEEVyCOrjJxA&s" width="24px" alt="_icon" />  X  Kakao <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kakao_CI_yellow.svg/1200px-Kakao_CI_yellow.svg.png" width="24px" alt="_icon" />  Hackathon</th>
         <td>2024.03 ~ 2024.06 
-            <a href="https://github.com/JunRock/JunRock/assets/56196986/f8bb3ba0-570f-4a43-aec1-eea090fd54b3" target="_blank"> [수료증]</a>
+            <a href="https://github.com/user-attachments/assets/d2bbd428-845e-4e74-a47b-5eac4bd24705
+" target="_blank"> [수료증]</a>
         </td>
         <td>디스턴스(distance)</a>
         </td>
