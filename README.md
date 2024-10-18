@@ -74,11 +74,6 @@
         <th>활동 기간</th>
         <th>프로젝트</th>
     </tr>
-     <tr>
-        <th> 한국 관광공사 <img src="https://i.namu.wiki/i/AcMJtozOwTtPt6mQPaU6-VjAe1xpIGATnI519QxvPGC-zOioc-gX3hOJznAIXesiUuepE-CIrmXTp74SjtkX1Q.svg" width="20px" alt="_icon" /> X Kakao <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kakao_CI_yellow.svg/1200px-Kakao_CI_yellow.svg.png" width="24px" alt="_icon" /> 2024 관광데이터 활용 공모전</th>
-        <td>2024.05 ~ 진행중</td>
-        <td>PererPan</td>
-    </tr>
     <tr>
         <th>goormthon univ 2기 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBQRemibPTWg_IeIHpL0pe8KBEEVyCOrjJxA&s" width="24px" alt="_icon" />  X  Kakao <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kakao_CI_yellow.svg/1200px-Kakao_CI_yellow.svg.png" width="24px" alt="_icon" />  Hackathon</th>
         <td>2024.03 ~ 2024.06 
